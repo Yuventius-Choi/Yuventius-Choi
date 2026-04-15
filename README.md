@@ -37,6 +37,6 @@ Here are some ideas to get you started:
 </div>
 <br/>
 
-<h3 align="center">
+<!-- <h3 align="center">
   <a href="https://github.com/Yuventius-Choi"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuventius-Choi&layout=compact&theme=nord&hide_border=true" /></a> 
-</h3>
+</h3> -->
